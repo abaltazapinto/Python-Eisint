@@ -2,10 +2,6 @@
 x = 5
 y = "Olá Mundo"
 
-
-
-
-
 #Imprimir os valores para o ecrã
 print(x)
 print(y) 
